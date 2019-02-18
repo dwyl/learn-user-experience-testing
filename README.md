@@ -1,4 +1,4 @@
-# learn-user-testing
+# Learn User Experience Testing
 Learn how to test your app with real humans
 
 ## Why?
