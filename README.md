@@ -5,28 +5,35 @@ Learn how to test your app with real humans
 This is _probably_ the most important/useful skill any "_creative technologist_"
 has. 💪
 
-Well conducted user experience testing helps you ensure that what you are
-planning to build is going to solve the problem for your users that you set out
-to solve. ✅
+Well conducted user experience testing helps you ensure at each stage of
+development that what you are planning to build is going to solve the problem
+for your users that you set out to solve. ✅
 
-It prevents you from wasting time ⏳/ effort 😓/ money 💰on guessing 🤔❓what your
-users will want, need or understand by getting them to critique your product as
-you go rather than retrospectively.
+Done properly, it prevents you from wasting time ⏳/ effort 😓/ money 💰on
+guessing 🤔❓what your users want, need or understand by getting them to critique
+your product as you go rather than retrospectively.
 
 Testing usability and following usability guidelines is not something we have to
 do to restrict ourselves or because we're told to. Understanding usability is
-about ensuring users can use our product effectively and so without it our
-product will be less successful. 📉👎  
+about ensuring users can use our product effectively 📈 👍
 
 ## What?
-User experience testing is a means of collecting feedback 🗣from users on the
-evolution of your product.
+User experience testing is a means of collecting feedback 🗣from users on
+whether the UX/UI presented allows them to achieve their desired goal in the
+fewest steps.
 
-It can be performed multiple times in a cycle of:  🗣❌👎gathering feedback on
-your designs from users -> adapting your designs in light of user feedback 🤔 ✏️
--> getting feedback on your amended designs to see if they now meet the users'
-needs 🗣✅👍. Once you are satisfied the users needs have been met then you can
+It should be performed from the very beginning of a project and throughout in a
+cycle of:  
+- 🗣❌👎gathering feedback on your designs from users ->
+- adapting your designs in light of user feedback 🤔 ✏️ ->
+- getting feedback on your amended designs to see if they now meet the users'
+needs 🗣✅👍 ->
+- Once you are satisfied the users needs have been met then you can
 begin to build the agreed designs. 🏗 👷‍♀️ 👷
+
+User experience testing cannot be performed as a 'token gesture' to produce
+insightful results. Care must be taken to ensure that guidelines are followed
+properly so that the results are not invalidated by ["_**confirmation bias**_"](https://en.wikipedia.org/wiki/Confirmation_bias).
 
 ## How?
 
@@ -59,6 +66,7 @@ desktop 💻 .
 6. Decide how you will **record the findings** of your interviews. 📝🔉🎥
 
 **1. Writing a script 🖊**
+
 A script is a helpful way of ensuring interviews are delivered in a consistent
 way (if different team members conduct them) and that the interviewer can feel
 relaxed ☺️ because they know what they've got to say. It's important that scripts
@@ -73,8 +81,13 @@ this is a formal setting and you're avoiding their eye contact 👀😊! So make
 the team familiarises themselves with the script before they start. The script
 doesn't need to be followed word for word but team members should bare in mind
 that certain word choices are important in order to not influence the testers
-responses. Here is a useful script outline that might be of use for some
+responses. Here is a script outline that might be of use for some
 projects: https://docs.google.com/forms/d/e/1FAIpQLSfM2Uaje8gpBde-RqU01DlxrGUEsWZrjiy8yTKmYaeJYAZUuw/viewform
+
+The script came from this 5 min Google tutorial: https://www.youtube.com/watch?v=0YL0xoSmyZI.
+Remember though to always tailor your script to what you are testing e.g. you
+may not need as many introductory questions as this one depending on what you
+are aiming to find out from your testing at this stage.
 
 These are some of the key points from it and other resources (see list at the
 bottom of readme):
@@ -140,8 +153,8 @@ capture. ‘I think that’s everything, do you have any questions for me?’
 don't fill the awkward silences by telling them what to do next, wait for them
 to talk. Responses like 'I'm not sure what to do now, where does this page go?'
 are really useful because they show you that your designs are not self explanatory.
-- Avoid using all yes/no answer, open ended questions encourage people to give
-more detail and depth of analysis
+- Avoid using leading questions or all yes/no questions. Open ended questions
+encourage people to give more detail and depth of analysis.
 - Be mindful of the language you use to respond to the tester, if a tester is
 talking about whether they like the app or not, saying 'ok' in confirmation
 rather than 'good' is more neutral. Saying 'good' would suggest that you are
@@ -149,6 +162,7 @@ pleased with their response and may influence them to give other answers they
 think you would like to hear.
 
 **2. Who 👥**
+
 If you have existing users for your product reach out to them and ask if any of
 them would like to participate in some research to help improve the product. If
 you don't have any existing users yet, aim to test your application on people
@@ -163,6 +177,7 @@ responses they give. You may get a better response rate for participation from
 people who are on their own 👤.
 
 **3. Where 🗺**
+
 Key for determining where to conduct your interviews are:
 - **proximity and comfort** - how relaxed will your interviewee feel where
 you're meeting them, is it easy for them to get to, would they feel relaxed in
@@ -180,6 +195,7 @@ their colleagues in comparison to if you asked them in a setting outside of
 their office? or in a private space?
 
 **4. When 🕥🕚**
+
 When is a time that suits you and your interviewees. If you're looking to source
 interviewees on the day when is a time that your chosen location is likely to
 have plenty of people around e.g. office hours for an office, would people be
@@ -191,11 +207,13 @@ in January to coordinate with '[Dry January](https://en.wikipedia.org/wiki/Dry_J
 when researching for a product aimed at people interested in low/no alcohol drinks options.
 
 **5. Who will conduct interviews**
+
 1 or 2 people is sufficient (you don't want to make your tester feel
 uncomfortable). Everyone involved in your product should go at some point
 (developers too!)
 
 **6. How many interviews**
+
 Up to **85% of core usability problems** can be found by **observing just 5
 people using your application** according to Jakob Nielsen (see
   https://www.youtube.com/watch?v=0YL0xoSmyZI and
@@ -208,6 +226,7 @@ people using your application** according to Jakob Nielsen (see
   so forth.
 
 **7. Recording the findings of your interviews 📝 and interpreting them 📊❓**
+
 Agree before you conduct your interview who is going to take notes and in what
 format or whether you're going to record the session (the screen or audio).
 Think about how you will later collate your results to see patterns from them.
